@@ -2,7 +2,7 @@
 
 ## Build a superhero api with machine learning capabilities
 
-Dataset and exercise that we use as part of the hiring process for machine
+Dataset and exercise we use as part of the hiring process for machine
 learning related jobs at e-conomic (Visma).
 
 From `exercise.tex`;
